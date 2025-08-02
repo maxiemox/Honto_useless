@@ -68,7 +68,9 @@ npm run dev
 
 
 📘 Project Documentation
+
 Input Flow:
+
 User enters ghost character details (e.g. “Kayako Saeki – cursed spirit from Japan”)
 Backend parses personality traits, emotional tone, and origin.
 Hugging Face models evaluate:
@@ -77,7 +79,9 @@ Zero-shot classification – Which movies semantically match this ghost's story?
 Text Embedding – Compare ghost profile with movie loglines.
 
 Output:
+
 Recommendations like:
+
 “This ghost may enjoy The Others (2001) for its tragic emotional arc.”
 “The Sixth Sense is ideal for subtle, misunderstood specters.”
 
@@ -90,6 +94,8 @@ Screenshots (Add at least 3)
 Project Demo : honto.vercel.app
 
 
-Team Contributions : 
+Team Contributions :
+
 Mruthla S : Ideation
+
 Anna Catherine : Implementation
