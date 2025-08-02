@@ -91,7 +91,7 @@ Screenshots (Add at least 3)
 <img width="1920" height="924" alt="image" src="https://github.com/user-attachments/assets/73f97f54-c4f6-4045-a6df-4907ed8bacc0" />
 
 
-Project Demo : honto.vercel.app
+Project Demo : https://honto.vercel.app/
 
 
 Team Contributions :
