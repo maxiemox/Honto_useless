@@ -1,11 +1,13 @@
 <img width="3188" height="1202" alt="image" src="https://github.com/user-attachments/assets/46559564-9254-4f82-9a44-6509ada717c4" />
 
 
-[HONTO] 🎯
+**HONTO** 🎯
 
-Basic Details
-Team Name: [Miyamura]
+*Basic Details*
+Team Name: Miyamura
+
 Team Members
+
 Team Lead: Mruthula S - Adi Shankara Institute of Engineering and Technology
 Member 2: Anna Catherine -  Adi Shankara Institute of Engineering and Technology
 
